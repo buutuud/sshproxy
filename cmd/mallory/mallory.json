@@ -1,0 +1,18 @@
+{
+  "id_rsa": "./id_rsa",
+  "local_smart": ":1315",
+  "local_normal": ":1316",
+  "remote": "ssh://root@172.104.118.91:80",
+  "blocked": [
+    "angularjs.org",
+    "golang.org",
+    "google.com",
+    "google.co.jp",
+    "googleapis.com",
+    "googleusercontent.com",
+    "google-analytics.com",
+    "gstatic.com",
+    "twitter.com",
+    "youtube.com"
+  ]
+}

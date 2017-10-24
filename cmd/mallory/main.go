@@ -13,7 +13,7 @@ import (
 )
 
 var (
-	FConfig = flag.String("config", "$HOME/.config/mallory.json", "config file")
+	FConfig = flag.String("config", "./mallory.json", "config file")
 	FSuffix = flag.String("suffix", "", "print pulbic suffix for the given domain")
 	FReload = flag.Bool("reload", false, "send signal to reload config file")
 )
